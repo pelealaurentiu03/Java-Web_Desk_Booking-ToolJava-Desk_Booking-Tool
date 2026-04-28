@@ -2,6 +2,8 @@
 
 A full-stack web application designed to streamline office space management and desk reservations. Built using Java and the Vaadin framework, this tool provides a seamless, single-page application (SPA) experience for employees to book desks and for administrators to manage office resources.
 
+!The core backend logic and database connections are fully functional. Currently refining the UI/UX responsiveness and adjusting desk button alignments on the frontend.
+
 ## Project Architecture
 
 The application is built with a focus on clean code and modularity, leveraging Java's object-oriented strengths:
